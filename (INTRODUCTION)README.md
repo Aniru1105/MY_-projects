@@ -1,8 +1,7 @@
 # MY_-projects
 Projects I've Worked On Related to Data Analysis
 # INTRODUCTION:
-## PROJECT NAME:
-### ATLIQ SALES INSIGHTS 
+## ATLIQ SALES INSIGHTS 
 #### Company Background :
 ## Company Background
 **Atliq** is a prominent electronics goods and hardware company specializing in supplying high-quality electrical equipment to clients across India.  
