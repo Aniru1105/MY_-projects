@@ -16,5 +16,23 @@ This **Sales Insight Aims Grid** provides an overview of our key objectives for 
 You can download the full **Sales Insight Aims Grid** in PowerPoint format from the link below:
 - go to the file **[SALES_INSIGHT AIMS_GRID]**
 Feel free to explore the presentation to understand the detailed goals and actions planned for enhancing sales tracking and insights.
+### Data exportation :
+## Database Information
+The file [`db_dump_version_2.sql`](./db_dump_version_2.sql) contains all the data used throughout this project.
+### Steps to Activate the Database:
+1. Open **MySQL Workbench** or your preferred MySQL client.
+2. Establish a connection to the database where you want to load the data.
+   - Open MySQL Workbench.
+   - Click on the connection you wish to use.
+3. Once connected, follow these steps:
+   - Go to the **Server** menu.
+   - Click on **Data Import** or **Import Data**.
+4. Locate the file `db_dump_version_2.sql`:
+   - Browse to the directory where the file is stored.
+   - Select `db_dump_version_2.sql` and confirm.
+5. Follow the prompts to complete the data import process.
+Once completed, the database will be populated with all the required data for this project.
+
+
 
 
