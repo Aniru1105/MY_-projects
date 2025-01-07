@@ -10,5 +10,11 @@ service delivery and client satisfaction.
 Despite having regional co-managers at each outpost across the country, the insights he receives are often communicated through verbal mediums. This method of communication occasionally results in information that is sugarcoated or slightly misrepresented, making it difficult to obtain an accurate understanding of the sales performance. 
 Although sales have been decreasing, the data provided by the regional managers doesn't give Mr. Patel the complete picture. In an effort to improve visibility, he has asked his managers to provide files and data; however, the sheer volume of data is overwhelming and lacks clear, actionable insights.
 To address these challenges, Mr. Patel is seeking a streamlined, understandable, and digestible sales analysis system that can provide him with accurate and meaningful insights to make informed decisions.
+### Aims Grid:
+## Sales Insight Aims Grid
+This **Sales Insight Aims Grid** provides an overview of our key objectives for improving sales tracking and gaining insights into the sales process. It includes our planned goals, timelines, and the status of various initiatives across our sales teams.
+You can download the full **Sales Insight Aims Grid** in PowerPoint format from the link below:
+- go to the file **[SALES_INSIGHT AIMS_GRID]**
+Feel free to explore the presentation to understand the detailed goals and actions planned for enhancing sales tracking and insights.
 
 
