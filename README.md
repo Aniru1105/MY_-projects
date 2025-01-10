@@ -1,5 +1,5 @@
 # Anirudh Sharma's projects:
-Projects I've Worked On Related to Data Analysis
+Projects I've Worked On Related to Data Analysis.
 This repository is currently organized into a **main branch** and **one sub-branch**,
 with plans to add more sub-branches in the future. Each sub-branch will be dedicated to a specific aspect of the project.
 # Instructions:
