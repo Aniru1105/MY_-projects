@@ -1,10 +1,11 @@
 # Anirudh Sharma's projects:
 Projects I've Worked On Related to Data Analysis
+This repository is currently organized into a **main branch** and **one sub-branch**,
+with plans to add more sub-branches in the future. Each sub-branch will be dedicated to a specific aspect of the project.
 # Instructions:
 ## Project_1: Sales_Insight
 ### Welcome to the Sales Project Repository
-This repository is currently organized into a **main branch** and **one sub-branch**,
-with plans to add more sub-branches in the future. Each sub-branch will be dedicated to a specific aspect of the project.
+This project is currently organized into one sub-branch.
 ### Explore Sub-Branches
 To explore the different projects, please navigate to the relevant sub-branches listed below:
 - **[PROJECT_1]**: Sales_Insight project .  
