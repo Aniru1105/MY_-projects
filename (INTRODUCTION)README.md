@@ -32,7 +32,15 @@ The file [`db_dump_version_2.sql`](./db_dump_version_2.sql) contains all the dat
    - Select `db_dump_version_2.sql` and confirm.
 5. Follow the prompts to complete the data import process.
 Once completed, the database will be populated with all the required data for this project.
+### Data Transformation:
+For data transformation, I have utilized **Power BI** to perform Power Query transformations and data modeling. Power BI provides an intuitive platform for transforming raw data into insightful visualizations, and I have leveraged this for the sales insights analysis.
+To view the transformations and the data model I have created in Power BI, you can directly visit my Power BI file, which is available on GitHub at the following link:  
+[Sales Insights Power BI File](https://github.com/Aniru1105/MY_-projects/blob/PROJECT-1/Sales_Insights.pbix)
+This Power BI file includes all the queries, transformations, and models that were used to extract meaningful insights from the data.
+Feel free to explore the file for a more detailed understanding of the data modeling and analysis process.
 
+---
+Thank you for exploring the **Atliq Sales Insights** project! Please reach out if you have any questions or suggestions.
 
 
 
