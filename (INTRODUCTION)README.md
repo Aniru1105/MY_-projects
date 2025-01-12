@@ -32,12 +32,35 @@ The file [`db_dump_version_2.sql`](./db_dump_version_2.sql) contains all the dat
    - Select `db_dump_version_2.sql` and confirm.
 5. Follow the prompts to complete the data import process.
 Once completed, the database will be populated with all the required data for this project.
-### Data Transformation:
+### Data Transformation :
+## Database Information 
+#### phase 1:Basic Information
 For data transformation, I have utilized **Power BI** to perform Power Query transformations and data modeling. Power BI provides an intuitive platform for transforming raw data into insightful visualizations, and I have leveraged this for the sales insights analysis.
 To view the transformations and the data model I have created in Power BI, you can directly visit my Power BI file, which is available on GitHub at the following link:  
 [Sales Insights Power BI File](https://github.com/Aniru1105/MY_-projects/blob/PROJECT-1/Sales_Insights.pbix)
 This Power BI file includes all the queries, transformations, and models that were used to extract meaningful insights from the data.
 Feel free to explore the file for a more detailed understanding of the data modeling and analysis process.
+#### phase 2 : Short summary of transformation
+### Data Transformation and Dashboard Creation  
+#### Data Transformation Process  
+1. **Loading Data**:  
+   I started by loading the MySQL file into Power BI. For the ETL (Extract, Transform, Load) process, I utilized a combination of MySQL, Power Query (built into Power BI), and DAX (Data Analysis Expressions) programming language.  
+2. **ETL Steps**:  
+   - **Fetching the Data**: Imported the raw data into Power BI from the MySQL server.  
+   - **Data Modeling**: Performed data modeling directly within Power BI.  
+   - **Pipeline Creation**: Used Power BI's built-in pipeline creation features to streamline the transformation process.  
+   - **Data Cleaning**: Removed null values and noisy data to ensure data integrity.  
+   - **Currency Conversion**: Standardized all currencies into a single format for consistency.  
+   - **Data Evaluation and Transformation**: Conducted evaluations and applied necessary transformations for accurate analysis.  
+
+#### Dashboard Creation  
+After completing the transformation, I created a dashboard to present the insights visually. The dashboard was saved in multiple formats and uploaded to my GitHub repository:  
+1. **Dashboard in PowerPoint Format**:  
+   - [Sales Insights Dashboard - PPT](https://github.com/Aniru1105/MY_-projects/blob/PROJECT-1/Sales_Insight_ppt.pptx)  
+2. **Dashboard in PDF/Word Format**:  
+   - [Sales Insights Dashboard - PDF/Word](https://github.com/Aniru1105/MY_-projects/blob/PROJECT-1/Sales_Insights.pdf)  
+3. **Dashboard in Excel Format**:  
+   - [Sales Insights Dashboard - Excel](https://github.com/Aniru1105/MY_-projects/blob/PROJECT-1/Sales_Insights.xlsx)  
 
 ---
 Thank you for exploring the **Atliq Sales Insights** project! Please reach out if you have any questions or suggestions.
