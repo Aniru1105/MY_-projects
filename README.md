@@ -16,6 +16,8 @@ You can switch branches using:
    ```bash
    git checkout <branch-name>
    ```
+   or
+there is a main branch section , where u can switch the branch from main to "Project_1".
 ## Questions or Collaboration
 For any queries or collaboration opportunities, feel free to reach out via:
 - GitHub Issues
